@@ -17,6 +17,12 @@ Welcome to demoP's documentation!
    :caption: 第二章
 
    1_intro/build.rst 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: CATT
+
+   1_intro/jieba.rst
    
 
 
